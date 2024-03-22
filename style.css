@@ -1,0 +1,209 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(232, 244, 244);
+  font-family: "Sofia Sans Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.top-page img {
+  height: auto;
+  width: 100%;
+}
+
+#textbutton {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  color: aliceblue;
+}
+#hospital_logo {
+  display: flex;
+  position: absolute;
+  top: 0;
+  margin: 20px;
+  color: rgb(42, 122, 117);
+}
+
+#logo {
+  width: 3.5rem;
+  border-radius: 100px;
+  margin-right: 5px;
+}
+
+#top_button {
+  background-color: rgb(16, 134, 134);
+  color: aliceblue;
+  font-size: 19px;
+  height: 2.5rem;
+  width: 7rem;
+  border: 0;
+  border-radius: 5px;
+  margin-top: 2rem;
+  margin-left: 7rem;
+}
+
+.pros {
+  margin-top: -1rem;
+  display: flex;
+  color: aliceblue;
+  text-align: center;
+}
+
+.pros p {
+  margin-left: 1rem;
+  margin-right: 1.5rem;
+}
+
+.pros img {
+  margin-top: 1rem;
+  width: 3rem;
+  border-radius: 20px;
+}
+
+#experienced_doctors {
+  width: 25%;
+  background-color: rgb(16, 134, 134);
+}
+
+#customer_satisfaction {
+  width: 25%;
+  background-color: rgb(87, 205, 205);
+}
+
+#newest_technology {
+  width: 25%;
+  background-color: rgb(16, 134, 134);
+}
+
+#pharmacy {
+  width: 25%;
+  background-color: rgb(87, 205, 205);
+}
+
+.choose_us {
+  margin-top: 6rem;
+  max-width: 80%;
+  margin-left: 10%;
+}
+
+#Choose_text_img {
+  display: flex;
+}
+
+#Choose_text_img img {
+  border-radius: 3px;
+  width: 30rem;
+  height: auto;
+}
+#choose_txt {
+  margin-left: 3rem;
+}
+
+#meet {
+  margin-top: 5rem;
+  text-align: center;
+}
+#meet img {
+  width: 10rem;
+  height: 15rem;
+  border-radius: 0 10px;
+}
+#doctors {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.head_surgon {
+  margin: 5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+#founder {
+  width: 25rem;
+  height: auto;
+  border-radius: 0 10px;
+}
+#hst {
+  width: 30rem;
+  margin-left: -15rem;
+}
+
+.services {
+  display: flex;
+  flex-direction: column;
+}
+
+.services div {
+  margin-top: 1.5rem;
+  margin-left: 3rem;
+}
+
+.services img {
+  width: 15rem;
+  height: auto;
+  border-radius: 3px;
+}
+
+#sub-services {
+  display: flex;
+  flex-direction: row;
+}
+
+#hospital {
+  margin-top: 3rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#hospital img {
+  margin-top: 2rem;
+  width: 55rem;
+  border-radius: 30px 3px;
+}
+
+footer {
+  background-color: rgb(21, 82, 82);
+  color: aliceblue;
+  text-align: center;
+}
+
+footer h2 {
+  margin-top: -1.5rem;
+}
+
+li {
+  list-style: none;
+  margin-left: 2rem;
+}
+
+.social_media {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.social_media img {
+  margin-top: 3rem;
+  border-radius: 200px;
+  width: 30px;
+  border-color: rgb(16, 134, 134);
+}
+
+#foot_logo {
+  display: flex;
+}
+
+#foot_logo img {
+  width: 2rem;
+  height: auto;
+
+  margin-right: 0.5rem;
+}
